@@ -1,0 +1,2 @@
+Este objeto permanece privado.
+El acceso temporal fue concedido mediante una presigned URL de Amazon S3.
